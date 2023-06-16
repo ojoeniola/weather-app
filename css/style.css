@@ -99,3 +99,20 @@ h2 {
     font-weight: 400;
     line-height: 1
 }
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+small {
+    display: block;
+    text-align: center;
+    justify-content: center;
+    font-size: 16px;
+    margin-right: 440px;
+}
+.body {
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+}
